@@ -5,7 +5,6 @@ import numpy as np
 import plotly.figure_factory as ff
 import altair as alt
 import pydeck as pdk
-import matplotlib.pyplot as plt
 import datetime
 import base64
 
