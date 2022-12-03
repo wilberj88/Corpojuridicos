@@ -21,7 +21,7 @@ st.write("""
 
 st.write('---')
 st.write("""
-**Nueve (9) Centrales de Mando para sus Casos Jurídicos Comerciales y Civiles:**
+**Cinco (5) Centrales de Mando para sus Casos Jurídicos Comerciales y Civiles:**
 - 🗺: `Contratación Pública y Privada`
 - 💛: `Accidentes de Tránsito`
 - 🧭: `Defensa de Víctimas`
