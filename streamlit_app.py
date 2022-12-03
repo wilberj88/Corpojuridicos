@@ -28,7 +28,7 @@ st.write("""
 - 🚧: `Derecho Societario`
 - 🗣️: `Asuntos Agrarios`
 """)
-
+st.write('---')
 st.write("""
 **Sistema de Alarmas para:**
 - ⏰ : `Retrasos en Cumplimientos de Metas`
