@@ -6,12 +6,12 @@ import streamlit as st
 st.set_page_config(layout="wide", page_title="Corpojurídicos", page_icon="⚖️")
 
 #TITULO
-st.title('Corpojuridicos ⚖️ - Central de Atención Jurídica')
+st.title('Corpojuridicos ⚖️ - Atención Jurídica')
 
 #SUBTITULO
 st.write('---')
 st.write("""
-**Cinco (5) Centrales de Mando para sus Casos Jurídicos de Familia:**
+**Atendemos Casos Jurídicos de Familia:**
 - 🗺: `Matrimonio`
 - 💛: `Sucesiones`
 - 🧭: `Divorcios`
@@ -21,7 +21,7 @@ st.write("""
 
 st.write('---')
 st.write("""
-**Cinco (5) Centrales de Mando para sus Casos Jurídicos Comerciales y Civiles:**
+**Atendemos Casos Jurídicos Comerciales y Civiles:**
 - 🗺: `Contratación Pública y Privada`
 - 💛: `Accidentes de Tránsito`
 - 🧭: `Defensa de Víctimas`
@@ -30,12 +30,12 @@ st.write("""
 """)
 st.write('---')
 st.write("""
-**Sistema de Alarmas para:**
-- ⏰ : `Retrasos en Cumplimientos de Metas`
+**Solicita tu Asesoría de 30 minutos**
+- ⏰ : `Agenda`
 """)
 st.write("""
-**Sistema de Recomendación para:**
-- 📈:  `Más Votos, Influencia y Sentimientos favorables`
+**Reserva tu espacio**
+- 📈:  `Todas las formas de pago digitales`
 """)
 st.write('---')
 st.markdown('Versión Ejemplo Borrador - Cotiza tu versión personalizada en www.novuslaw.com')
